@@ -23,4 +23,4 @@ data "aws_ami" "LAMP" {
 }
 ```
 
-There is a working example included in the `terraform` directory. If you build an AMI first, Terraform will look it up automatically.
+There is a working example included in the `terraform` directory. If you build the AMI first, Terraform will look it up automatically.
